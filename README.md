@@ -64,6 +64,18 @@ RuntimeError: This is a custom error message
 
 >Here is an example of using a codeblock for an error that appears in bash.
 
+## Step 1 - How to take screenshots
+
+- A screenshot is when you capture a part of your screen from your laptop, desktop, or phone.
+- This is not to be confused with taking a photo with your phone
+- **Don't do this**
+
+  ![Dont Do this](https://github.com/orangebadger/github-docs-example/assets/124336661/ceefa70a-396f-4858-8336-68cad04c3564)
+
+This is what a screenshot from your computer should look like.
+
+![Screenshot](https://github.com/orangebadger/github-docs-example/assets/124336661/e52c0b54-1b13-488a-b840-947f76d8e81c)
+
 ## Step 3 - Use Github Flavored Markdown Task Lists
 
 Github extends Markdown to have a list where you can check off items.[<sup>[1]</sup>](#references)
@@ -95,6 +107,10 @@ You can use the following markdown format to create tables
 
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. <sup>[2]</sup>
 
+- Make note of where the pipe character keyboard key is located.
+- It should appear above the return or enter key
+- but it may vary based on your keyboard layout.
+<img widt="200px" src="https://github.com/omenking/github-docs-example/blob/main/assets/pipe-char.jpg" />
 
 ## References
 
