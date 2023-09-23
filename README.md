@@ -70,7 +70,7 @@ RuntimeError: This is a custom error message
 - This is not to be confused with taking a photo with your phone
 - **Don't do this**
 
-  ![Dont Do this](https://github.com/orangebadger/github-docs-example/assets/124336661/ceefa70a-396f-4858-8336-68cad04c3564)
+
 
 This is what a screenshot from your computer should look like.
 
